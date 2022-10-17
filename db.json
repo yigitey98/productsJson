@@ -1,15 +1,5 @@
 [
   {
     "id": 1,
-    "name": "Nutuk",
-    "author": "Mustafa Kemal Atatürk",
-    "price": 19.25,
-    "oldPrice": null,
-    "description": "Ey Türk gençliği! Birinci görevin, Türk bağımsızlığını, Türk Cumhuriyeti'ni sonsuza kadar korumak ve savunmaktır.",
-    "starRate": 5,
-    "reviewCount": 1938,
-    "stock": 1881,
-    "imgSource": "./assets/images/books/nutuk.jpg",
-    "type": "HISTORY"
   }
 ]
